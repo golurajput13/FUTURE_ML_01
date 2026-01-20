@@ -1,2 +1,21 @@
-# FUTURE_ML_01
-This repository contains all Machine Learning internship tasks completed at Future Interns, including Sales Forecasting, Customer Churn Prediction, and a Customer Support Chatbot. Projects involve data analysis, predictive modeling, visualization with Power BI, and chatbot development using Dialogflow.
+# FUTURE_ML_01 – Machine Learning Internship
+
+Intern Name: Golu Rajput 
+CIN ID: FIT/DEC25/ML4132
+Organization: Future Interns  
+
+## Completed Tasks
+- Task 1: Sales Forecasting using Time Series Analysis (Prophet + Power BI)
+- Task 2: Customer Churn Prediction System (Spotify Dataset + Machine Learning)
+- Task 3: Customer Support Chatbot using Dialogflow
+
+## Tools Used
+- Python
+- Pandas & NumPy
+- Scikit-learn
+- Facebook Prophet
+- Power BI
+- Dialogflow
+- GitHub
+
+Status: ✅ All tasks completed
